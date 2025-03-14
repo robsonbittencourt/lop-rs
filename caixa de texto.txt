@@ -1,0 +1,7 @@
+<textarea ROWS=35 COLS=70 style="background:#000000; 
+
+                        font-family:MAIANDRA GD; font-size: 10PT; color: #FFFFFF; 
+
+border:1PT 
+
+                        SOLID #B22222;">Bem vindos a LOP-RS</textarea>
